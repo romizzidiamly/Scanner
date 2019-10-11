@@ -3,7 +3,7 @@ package DasProMiniProject;
 //Kode Scanner
 import java.util.Scanner;
 
-public class MiniProject {
+public class MiniProjectScannerDasPro {
 
     public static void main(String[] args) {
     
